@@ -65,9 +65,8 @@ The project focuses on three questions:
 ## Project Structure
 
 ```text
-Bitcoin-Trend-Signal-Predictability/
-│
-├── bitcoin_trend_signal_predictability.ipynb
+├── bitcoin_trend_analysis.ipynb
+├── Bitcoin Trend Signal Predictability.docx
 ├── bitcoin_yearly_growth.png
 ├── monthly_growth_distribution.png
 ├── weekday_hit_rate.png
